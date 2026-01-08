@@ -1,0 +1,7 @@
+unstructured[all-docs]
+pdfminer.six
+pillow
+#Python version: 3.10.x (required)
+torch
+transformers
+pillow
